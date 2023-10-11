@@ -1,6 +1,6 @@
-streamlit
-numpy
-scikit-learn
+streamlit==1.25.0
+numpy==1.24.3
+scikit-learn==1.2.2
 
 #local packages
 -e .
