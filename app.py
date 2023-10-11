@@ -1,7 +1,8 @@
 import pickle
 import streamlit as st
 import numpy as np
-import scipy.sparse
+from scipy.sparse import csr_matrix
+
 
 st.header("Anime recommendation system using Machine Learning")
 
