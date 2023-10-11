@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 REPO_NAME = "anime_recommendation_system_using_ML"
 AUTHOR_USER_NAME = "HyperShadow666"
 SRC_REPO = "src"
-LIST_OF_REQUIREMENTS = ['streamlit', 'numpy','scikit-learn']
+LIST_OF_REQUIREMENTS = ['streamlit', 'numpy','scikit-learn','scipy']
 
 
 setup(
