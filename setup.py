@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 ## edit below variables as per your requirements -
-REPO_NAME = "Anime-Recommender-System-Using-Machine-Learning"
+REPO_NAME = "anime_recommendation_system_using_ML"
 AUTHOR_USER_NAME = "HyperShadow666"
 SRC_REPO = "src"
 LIST_OF_REQUIREMENTS = ['streamlit', 'numpy','scikit-learn']
@@ -22,5 +22,5 @@ setup(
     packages=[SRC_REPO],
     license="MIT",
     python_requires=">=3.7",
-    install_requires=LIST_OF_REQUIREMENTS
+    install_requires=LIST_OF_REQUIREMENTS,
 )
