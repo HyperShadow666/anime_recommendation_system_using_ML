@@ -1,6 +1,7 @@
 import pickle
 import streamlit as st
 import numpy as np
+import scipy.sparse
 
 st.header("Anime recommendation system using Machine Learning")
 
