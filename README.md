@@ -3,6 +3,8 @@
 ## Overview
 
 This Python project is a collaborative-based anime recommender system designed to help users discover new anime titles based on their preferences and the preferences of other users in the system. The system leverages collaborative filtering techniques to make personalized recommendations by analyzing user interactions and preferences.
+![1697042485344](https://github.com/HyperShadow666/anime_recommendation_system_using_ML/assets/127450352/02d9cfd0-87a5-452b-ada5-fb19b6addda4)
+![1697042485660](https://github.com/HyperShadow666/anime_recommendation_system_using_ML/assets/127450352/6da8ae98-3542-46ae-83d0-58d9e5442d17)
 
 ## Features
 
