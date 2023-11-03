@@ -27,6 +27,7 @@ To use this collaborative-based anime recommender system, follow these steps:
 
 The anime data used in this project is sourced from 
 https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-animes-profiles-reviews/data?select=reviews.csv
+
 It includes information about anime titles, such as title, genre, release year, and user ratings.
 
 ## Technologies Used
