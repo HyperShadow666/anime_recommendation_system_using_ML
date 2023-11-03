@@ -37,5 +37,5 @@ It includes information about anime titles, such as title, genre, release year, 
 
 ## Contributors
 
-Chadi MOUNTASSIR: Data Engeneering student at ENSAH
+Chadi MOUNTASSIR: Data Engineering student at ENSAH
 https://www.linkedin.com/in/chadi-mountassir-542779231/
